@@ -79,7 +79,7 @@ Available as of
 </th>
 <th>
 
--   
+
 
 
 </th>
@@ -121,7 +121,7 @@ Extension Suite - Development Efficiency
 </td>
 <td>
 
--   Cloud Foundry
+Cloud Foundry
 
 
 
